@@ -1,5 +1,6 @@
 Free Icon1 Set for files
 ================================
+DO NOT USE, SOME ICONS ADDED MAY VIOLATE LICENCE
 
 A free icon set with vector images for popular extensions:
 AAC, AI, AIFF, AVI, C, CPP, CSS, DAT, DMG, DOC, EXE, FLV, GIF, H, HPP, HTML,
